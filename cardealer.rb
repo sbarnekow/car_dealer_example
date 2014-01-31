@@ -1,3 +1,5 @@
+require 'sinatra'
+
 class Car 
 	attr_accessor :make, :model, :year, :color
 
@@ -14,4 +16,8 @@ class Car
 	end
 
 
+end
+
+get '/' do
+	"Hey KEn"
 end
