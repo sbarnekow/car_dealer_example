@@ -3,3 +3,7 @@ I, [2014-01-31T14:53:49.722771 #4538]  INFO -- : 0:  rack (1.5.2) from /Users/th
 I, [2014-01-31T14:53:49.723127 #4538]  INFO -- : 0:  tilt (1.4.1) from /Users/thoughtworker/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
 I, [2014-01-31T14:54:03.753298 #4538]  INFO -- : 0:  sinatra (1.1.0) from /Users/thoughtworker/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.1.0.gemspec
 I, [2014-01-31T14:54:03.760663 #4538]  INFO -- : 0:  bundler (1.5.1) from /Users/thoughtworker/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-31T15:03:42.129615 #4898]  INFO -- : 0:  rack (1.5.2) from /Users/thoughtworker/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-01-31T15:03:42.129959 #4898]  INFO -- : 0:  tilt (1.4.1) from /Users/thoughtworker/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-01-31T15:03:42.130198 #4898]  INFO -- : 0:  sinatra (1.1.0) from /Users/thoughtworker/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.1.0.gemspec
+I, [2014-01-31T15:03:42.130417 #4898]  INFO -- : 0:  bundler (1.5.1) from /Users/thoughtworker/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
